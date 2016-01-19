@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Poiret+One|Calligraffitti);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One|Life+Savers:700);
 
 #top
 {
@@ -43,7 +43,7 @@ background-color:#169AEB;
 
 #h2top{
     color: #f23d5d;
- font-family: 'Calligraffitti', cursive;
+ font-family: 'Life Savers', cursive;
     font-weight: 500;
     font-size: 4em;
 }
@@ -56,6 +56,7 @@ background-color:#169AEB;
 
 #typeformbutton{
     text-align: center;
+        
 }
 
 .btn
@@ -74,5 +75,32 @@ background-color:#169AEB;
 #linkbutton{
  vertical-align: middle;
     font-family: monospace;
-  
+    background-color: cyan;
+}
+
+#center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.contact-info {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 15px;
+    
+}
+.contact-info .item {
+    display: inline-block;
+    color: white;
+}
+.contact-info .item a {
+    padding: 0 5px;
+}
+
+.fa{
+    color: white;
+}
+.fa:hover{
+    color: #efefef; 
 }
