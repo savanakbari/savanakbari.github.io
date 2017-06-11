@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $(".hello").typed({
-        strings: ["Hello. ","Hola. ","Bonjour. ","Olá. "],
+        strings: ["Developer. ","Student. "],
         typeSpeed: 85,
         backDelay: 1200,
         loop: true,
